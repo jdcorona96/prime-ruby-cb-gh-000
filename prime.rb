@@ -15,6 +15,4 @@ def prime?(int)
     i += 6
   end
     true
-  end
-
 end
